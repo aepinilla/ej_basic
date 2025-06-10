@@ -1,3 +1,1 @@
 "Hola mundo!"
-
-"Este es un ejemplo"
